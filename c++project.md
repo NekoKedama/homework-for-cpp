@@ -448,7 +448,7 @@ I1226 15:58:14.629858 60672 HttpClient.cpp:15] HTTP Get Command: /usr/bin/curl -
 
   ##### 3、进入github关联ssh密钥
 
-  ![ssh-verify](\sshverify.png)
+  ![](https://github.com/NekoKedama/homework-for-cpp/blob/master/ssh-verify.png)
 
   ##### 4、测试ssh（一路回车使用default）
 
